@@ -1,0 +1,5 @@
+Para ejecutar el programa:
+
+1.- Clonamos o descargamos este repositorio
+2.- Abrimos el directorio raíz y ejecutamos el siguiente comando "node server/server.js" en la terminal
+3.- Escribimos en un navegador lo siguiente "localhost:3000"
